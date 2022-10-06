@@ -1,0 +1,19 @@
+body {
+    background-color: greenyellow;
+}
+p { font-size: 120%; color: dimgray; }
+p.important { border-style: solid; display: inline-block; border-width: 5px; border-color: purple; }
+.center { display: block; margin: auto; }
+.centertext { text-align: center; }
+figure {
+    float: left;
+  text-align: center;
+  font-style: italic;
+  font-size: smaller;
+  text-indent: 0;
+  border: thin silver solid;
+  padding-top: 100;
+}
+figcaption{
+    caption-side: bottom;
+}
