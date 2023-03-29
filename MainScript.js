@@ -78,4 +78,4 @@ employee.increaseSalary();
 console.log(employee.salary); // 👉️ 200
 */
 
-console.log("Old Changes");
+console.log("new Changes");
